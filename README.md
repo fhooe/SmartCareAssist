@@ -1,3 +1,5 @@
+![Project logo](INTERREG_Logo_RGB.png)
+
 # Sensor Dataset for Smart Care Assist
 
 This repository contains the cleaned, aggregated, and anonymized sensor and reference data underlying the analyses presented in the following publications:
