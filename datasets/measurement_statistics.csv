@@ -1,0 +1,10 @@
+﻿dataset;entries_total;entries_C1;entries_C3;measurement_days_total;measurement_days_C1;measurement_days_C3
+ref-system_cache.csv;884306;287310;596996;35;14;21
+ref-system_movement-pad_referenz.csv;226;208;18;25;24;1
+ref-system_status.csv;19;5;14;13;5;8
+movement-pad_cache.csv;1593516;893688;699828;49;24;25
+movement-pad_referenz.csv;907;642;265;37;25;12
+movement-pad_status.csv;134927;76149;58778;49;24;25
+inco-pad_cache.csv;2050200;1304460;745740;44;24;20
+inco-pad_referenz.csv;597;433;164;35;24;11
+inco-pad_status.csv;177222;112874;64348;45;24;21
